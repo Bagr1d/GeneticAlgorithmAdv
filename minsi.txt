@@ -1,0 +1,46 @@
+1. Funkcja celu to
+parametr który chcemy optymalizować.
+2. Constraints
+określają ograniczenia.
+3. Liczba bitów potrzebna do reprezentowania liczby całkowitej z zakresu <-8, 8> w chromosomie powinna wynosić
+5
+4. Które z poniższych zdań jest prawdziwe
+Algorytmy genetyczne to szczególny przypadek algorytmów ewolucyjnych.
+5. Wybierz pojęcia związane z algorytmami genetycznymi
+funkcja przystosowania.
+6. Metody mutacji wykorzystywane w algorytmach genetycznych to
+żadna z powyższych
+7. Zadaniem nieliniowym
+jest zadanie o rzeczywistych zmiennych.
+8. Zbiór dopuszczalny
+to zbiór zmiennych dopuszczalnych.
+9. Metoda simpleksu
+to metoda rozwiązywania zadań ciągłych.
+10. Do metod deterministycznych
+zalicza się metoda podziału i ograniczeń.
+11. Metodami bezkierunkowymi optymalizacji są
+Metody losowe oraz metaheurystyki.
+12. Odporność algorytmu wiąże się
+z pytaniem o wyznaczenie rozwiązania zadania z wieloma optymalnymi rozwiązaniami.
+13. 12. Złożonośc algorytmu oznaczona funkćja O(n^2) to
+n^2-n+1
+14. Problem NP-zupełby
+dotyczy problemów decezyjnych.
+15. Algorytm wielomianowy to algorytm
+oznaczony O(p(k)), gdzie k jest rozmiarem problemu rozwiązywanego.
+16. Metaheurestyką
+nazywamy algorytm zaprojektowany do rozwiązania konkretnego problemu dla którego nie jest znana metoda analityczna dokładnego rozwiązania.
+17. Czy reguła 1/5 sukcesu
+oznacza, że działanie operatorów genetycznych/ewolucyjnych zmienia swoje parametry zgodnie z regułą 1/5.
+18. Allelem
+definujemy wartości możliwe, jakie może przyjmować gen.
+19. W której z poniższych metod selekcji chromosom może być wielokrotnie wybrany do nowej populacji
+metoda turniejowa
+20. Zrównoleglenie algorytmu genetycznego jest możliwe na poziomie
+praktycznie wszystkich kroków i etapów jego działania.
+OTWARTE
+21. Czym jest zadanie wielokryterialne? Podaj przykłady.
+Zadanie wielokryterialne to problem, w którym istnieje więcej niż jedno kryterium do optymalizacji jednocześnie. Przykłady obejmują planowanie produkcji, projektowanie samochodu, wybór portfela inwestycyjnego i rozkład mocy w sieci energetycznej. W takich zadaniach nie ma jednego najlepszego rozwiązania, ale zbiór rozwiązań, które są dobre pod względem różnych kryteriów. Rozwiązywanie takich problemów wymaga zaawansowanych technik optymalizacyjnych. Przykłady: Planowanie produkcji, Projektowanie samochodu, Wybór portfela inwestycyjnego, Rozkład mocy w sieci energetycznej.
+22. Podaj defiicję algorytmu przybliżonego. Podaj przykład takiego algroytmu oraz problemu do którego rozwiązanie mógłby być użyty.
+Algorytm przybliżony - znajduje rozwiązanie zbliżone do optymalnego, ale niekoniecznie najlepsze. Często są bardziej efektywne obliczeniowo niż algorytmy dokładne, ale nie dają gwarancji optymalnego rozwiązania.
+Np. Algorytm 2-aproksymacyjny dla problemu komiwojażera. Znajduje rozwiązanie, które jest co najwyżej dwa razy gorsze od optymalnego, algorytm zachlanny, algorytm losowy (dla komiwojażera)
